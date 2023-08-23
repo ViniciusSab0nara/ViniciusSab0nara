@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I’m currently working on Data Analysis, Javascript and support for PowerBI 
+- I’m currently learning Python
+- How to reach me: www.linkedin.com/in/viniciussabonarasantos
 
 <!--
 **ViniciusSab0nara/ViniciusSab0nara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
