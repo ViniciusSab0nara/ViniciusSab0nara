@@ -2,9 +2,12 @@
 - I’m currently working on Data Analysis, Javascript and support for PowerBI 
 - I’m currently learning Python
 - How to reach me: www.linkedin.com/in/viniciussabonarasantos
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-
+<div style = "display : inline-block">
+  <img align ="center" alt = "Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img align ="center" alt = "Javascript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img align ="center" alt = "PowerBI" src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img align ="center" alt = "Excel" src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
 <!--
 **ViniciusSab0nara/ViniciusSab0nara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
