@@ -3,7 +3,7 @@
 - I’m currently learning Python
 - How to reach me: www.linkedin.com/in/viniciussabonarasantos
 
-![alt text]<svg xmlns="http://www.w3.org/2000/svg"> 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **ViniciusSab0nara/ViniciusSab0nara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
