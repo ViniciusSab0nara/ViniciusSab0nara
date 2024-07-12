@@ -49,8 +49,8 @@
 
 <div>
   <h2>Stats:</h2>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=viniciussabonara&theme=dark&show_icons=true&locale=en" alt="viniciussabonara" />
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussabonara&theme=dark&show_icons=true" alt="viniciussabonara" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=viniciussab0nara&theme=dark&show_icons=true&locale=en" alt="viniciussab0nara" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussab0nara&theme=dark&show_icons=true" alt="viniciussab0nara" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake.svg" />
