@@ -52,8 +52,8 @@
   <img height="250px" src="https://github-readme-stats.vercel.app/api?username=viniciussabonara&theme=dark&show_icons=true&locale=en" alt="viniciussabonara" />
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussabonara&theme=dark&show_icons=true" alt="viniciussabonara" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GabrielLaxy/GabrielLaxy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GabrielLaxy/GabrielLaxy/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/GabrielLaxy/GabrielLaxy/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
