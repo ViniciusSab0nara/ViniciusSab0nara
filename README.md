@@ -37,13 +37,13 @@
 <div>
   <h2>Languages and Tools:</h2>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=py,html,css,js&theme=dark"/>
   </p>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
   </p>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=ae,ps,ai,pr,figma&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
  </p>
 </div>
 
