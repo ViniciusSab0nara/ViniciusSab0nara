@@ -6,18 +6,20 @@
 <h1 align="center">I'm a Future Tech Innovator! 👨‍💻</h1>
 
 <p>
-  I'm a dedicated <strong>Computer Science student</strong> at the <strong>Instituto Mauá de Tecnologia</strong>, where I'm honing my skills and expanding my knowledge in the vast field of computing. My journey began in high school during an ICT class, where I printed my first 'Hello, World!' in Python. That moment ignited a passion that has only grown stronger with time.
+ I'm an aspiring <strong>Data Professional</strong>, currently focused on learning SQL and deepening my knowledge in data analysis and database management. 
+
+My journey with technology began during high school, where I had my first contact with code and developed a passion for solving problems through data. Since then, I've worked with systems, participated in social and leadership projects, and recently decided to dedicate three focused months to building a solid foundation in SQL, practicing daily through real exercises and documentation.
+
+This repository is part of that journey — a place to track progress, organize studies, and build a portfolio aligned with a future career in data.
 </p>
 
-<h2>🛡️ My Focus: Information Security</h2>
+<h2>🧠 My Focus: Data & SQL Foundations
 <p>
-  Currently, I'm deeply invested in my studies, pursuing a self-taught path with a focus on <strong>Information Security</strong>. I believe in a well-rounded understanding of computing, which is why I also delve into various other topics that contribute to my overall comprehension of the field. I like to think of it as assembling my own 'Batman's utility belt' of skills. 🦇
+Currently, I'm fully dedicated to my studies, pursuing a self-taught journey with a strong focus on SQL and data analysis. I'm building a solid foundation for a future in the data field — from relational databases and query logic to real-world practice and portfolio development.
+
+I believe in cultivating a broad, hands-on understanding of technology, which is why I also explore tools and routines that support productivity and continuous learning. I like to think of it as assembling my own data analyst's 'utility belt'. 🧰📊
 </p>
 
-<h2>👨‍💻 Leadership and Collaboration</h2>
-<p>
-  Through my university, I've been involved in projects collaborating with institutions ranging from local charities to large corporations. These experiences have not only allowed me to develop my technical abilities but also to cultivate <strong>soft skills</strong>. I've often found myself in leadership roles within development teams, guiding projects to success with a blend of technical acumen and team collaboration.
-</p>
 
 <h2>🌟 Let's Connect!</h2>
 <p>
