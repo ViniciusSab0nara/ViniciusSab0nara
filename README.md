@@ -53,3 +53,18 @@ These experiences have strengthened not only my analytical thinking and problem-
 </p>
 
 ---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciussab0nara&theme=dark&show_icons=true&locale=en" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussab0nara&theme=dark&show_icons=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ViniciusSab0nara/ViniciusSab0nara/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
