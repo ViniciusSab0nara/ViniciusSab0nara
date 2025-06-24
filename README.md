@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/f3/bd/45/f3bd45f6d915b011bc29f6661a73bac9.jpg" alt="Banner" width="800"/>
 </p>
 
-## 👨‍💻 Aspiring Data Analyst & Tech Leader
+## 👨‍💻 Aspiring Data Analyst 
 
 I'm an aspiring **Data Professional**, currently focused on learning SQL and deepening my knowledge in data analysis and database management.
 
