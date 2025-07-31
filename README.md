@@ -56,7 +56,7 @@ These experiences have strengthened not only my analytical thinking and problem-
 
 ## 📊 Stats
 
-<p align="center">
+<p align="center" position="absolute">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciussab0nara&theme=dark&show_icons=true&locale=en" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussab0nara&theme=dark&show_icons=true" />
 </p>
