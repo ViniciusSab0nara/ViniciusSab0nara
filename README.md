@@ -49,7 +49,7 @@ These experiences have strengthened not only my analytical thinking and problem-
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,mysql,postgres,bigquery,powerbi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py,js,mysql,postgres,html,css,grafana&theme=dark"/>
 </p>
 
 ---
