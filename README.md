@@ -58,6 +58,8 @@ These experiences have strengthened not only my analytical thinking and problem-
 
 <p align="center" position="absolute">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciussab0nara&theme=dark&show_icons=true&locale=en" />
+</p>
+<p align="center" position="absolute">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussab0nara&theme=dark&show_icons=true" />
 </p>
 
