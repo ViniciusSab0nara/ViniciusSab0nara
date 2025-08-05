@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vinícius Sabonara
+# 👋 Hi there! I'm Vinícius 
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f3/bd/45/f3bd45f6d915b011bc29f6661a73bac9.jpg" alt="Banner" width="800"/>
